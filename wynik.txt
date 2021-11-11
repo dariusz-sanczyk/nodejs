@@ -1,4 +1,0 @@
-Dodawanie liczb 245 i 789 daje w wyniku 245789
-Odejmowanie liczb 245 i 789 daje w wyniku -544
-Mnożenie liczb 245 i 789 daje w wyniku 193305
-Dzielenie liczb 245 i 789 daje w wyniku 0.3105196451204056
