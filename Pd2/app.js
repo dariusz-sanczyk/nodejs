@@ -111,20 +111,20 @@
 
 // Zadanie 9  
 
-const fs = require('fs');
-const yargs = require('yargs');
-const args = yargs.argv;
+// const fs = require('fs');
+// const yargs = require('yargs');
+// const args = yargs.argv;
 
-const newName= args.name
-const newlastName = args.lastName
+// const newName= args.name
+// const newlastName = args.lastName
 
-let user = {
-    name: 'Jan',
-    lastName: 'Nowak',
-}
- console.log(user.name)
+// let user = {
+//     name: 'Jan',
+//     lastName: 'Nowak',
+// }
+//  console.log(user.name)
 
-user.name = newName
-user.lastName = newlastName
+// user.name = newName
+// user.lastName = newlastName
 
-fs.writeFileSync('users1.json', (JSON.stringify(user)));
+// fs.writeFileSync('users1.json', (JSON.stringify(user)));
